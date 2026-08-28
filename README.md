@@ -7,7 +7,7 @@ FINSIGHT, profesyonel portföy yöneticilerine (PY) yönelik, **human-in-the-loo
 
 Referans fon: **TIE — İş Portföy BIST 30 Endeksi Hisse Senedi Fonu**
 
-🔗 **Canlı Demo:** [https://SENIN-KULLANICI-ADIN.github.io/finsight/](https://github.com/minayagmurpoyraz/FINSIGHT)
+🔗 **Canlı Demo:** [https://(https://github.com/minayagmurpoyraz/FINSIGHT)
 
 ---
 
